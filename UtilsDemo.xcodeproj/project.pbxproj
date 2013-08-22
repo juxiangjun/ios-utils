@@ -500,6 +500,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "UtilsDemo/UtilsDemo-Prefix.pch";
 				INFOPLIST_FILE = "UtilsDemo/UtilsDemo-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -511,6 +512,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "UtilsDemo/UtilsDemo-Prefix.pch";
 				INFOPLIST_FILE = "UtilsDemo/UtilsDemo-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -569,6 +571,7 @@
 				625C36A817C4CB4E00B29340 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		625C36A917C4CB4E00B29340 /* Build configuration list for PBXNativeTarget "UtilsDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -577,6 +580,7 @@
 				625C36AB17C4CB4E00B29340 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
